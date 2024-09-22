@@ -1,0 +1,16 @@
+{
+    "name": "aline/my_store",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app"
+        }
+    },
+    "authors": [
+        {
+            "name": "aline",
+            "email": "alineb3006@hotmail.com"
+        }
+    ],
+    "require": {}
+}
